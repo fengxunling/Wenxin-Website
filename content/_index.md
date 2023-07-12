@@ -51,6 +51,7 @@ sections:
 
               * Transfer learning to decode brain states reflecting the relationship between cognitive 
 tasks
+              * Infusing cognitive science into artificial general intelligence test facilitates evolution and safety of large models
         - title: Professor of Semiconductor Physics
           company: Department of Brain and Cognitive Science, MIT
           company_url: ''

@@ -38,7 +38,7 @@ Eduation:
     year: 2023 Spring
 
 # Education to show in About widget
-education:
+Research Experience:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University

@@ -25,10 +25,17 @@ organizations:
 bio: My research interests focus on artificial intelligence (especially the spiking neural networks and transfer learning models) for neuroscience.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Neuroscience
-  - Neural Imaging
+Eduation:
+  # - Artificial Intelligence
+  # - Neuroscience
+  # - Neural Imaging
+  courses:
+    - course: Graduate Student
+    institution: Southern University of Science and Technology
+    year: 2020-2024(expected)
+    - course: Regular Visiting Student
+    institution: University of Zurich
+    year: 2023 Spring
 
 # Education to show in About widget
 education:

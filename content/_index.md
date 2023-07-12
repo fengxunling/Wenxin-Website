@@ -40,8 +40,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Department of Biomedical Engineering, SUSTech
-          company: Assessing Generalization of Cognitive Tasks using Multi-regional Modular Recurrent 
-Neural Networks with Transfer Learning
+          company: Research about *Assessing Generalization of Cognitive Tasks using Multi-regional Modular Recurrent Neural Networks with Transfer Learning*
           company_url: ''
           company_logo: org-gc
           location: Supervisor - Quanying Liu

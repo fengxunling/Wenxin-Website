@@ -31,7 +31,7 @@ Interests:
   - Neural Imaging
 
 # Education to show in About widget
-Research Experience:
+Eduation and Research Experience:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University

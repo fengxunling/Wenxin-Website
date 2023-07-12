@@ -29,10 +29,9 @@ interests:
   - Artificial Intelligence
   - Neuroscience
   - Neural Imaging
-  - Cooking
-  institution: welcome to try my dishes!
+  - Cooking - welcome to try my dishes!
   - Travel around
-  - Learning German (although still in A1)
+  - Learning German
 
 # Education to show in About widget
 education:

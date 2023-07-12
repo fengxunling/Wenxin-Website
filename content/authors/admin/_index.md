@@ -25,26 +25,23 @@ organizations:
 bio: My research interests focus on artificial intelligence (especially the spiking neural networks and transfer learning models) for neuroscience.
 
 # Interests to show in About widget
-Interests:
+Eduation:
   - Artificial Intelligence
   - Neuroscience
   - Neural Imaging
 
 # Education to show in About widget
-Eduation:
+education:
   courses:
-    - course: Undergraduate Student
-      institution: Southern University of Science and Technology
-      year: 2020.9-2024.6 (expected)
-    - course: Visiting Student
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2023.7-2024.1
-    - course: Visiting Student
-      institution: University of Zurich
-      year: 2023.2-2023.6
-    - course: Visiting Student
-      institution: New York University Shanghai
-      year: 2022.6-2022/8
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

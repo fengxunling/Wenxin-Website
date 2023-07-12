@@ -26,9 +26,6 @@ bio: My research interests focus on artificial intelligence (especially the spik
 
 # Interests to show in About widget
 Eduation:
-  # - Artificial Intelligence
-  # - Neuroscience
-  # - Neural Imaging
   courses:
     - course: Graduate Student
     institution: Southern University of Science and Technology

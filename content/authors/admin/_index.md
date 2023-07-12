@@ -46,7 +46,7 @@ education:
       year: 2023.2-2023.6
     - course: Visiting Student
       institution: New York University Shanghai
-      year: 2022.6-2022/8
+      year: 2022.6-2022.8
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

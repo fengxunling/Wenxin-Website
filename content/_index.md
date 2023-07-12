@@ -47,7 +47,7 @@ sections:
           date_start: '2021-07-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Assessing Generalization of Cognitive Tasks using Multi-regional Modular Recurrent Neural Networks with Transfer Learning
 
               * Analysing
               * Modelling

@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Undergraduate Student
+    - course: Undergraduate
       institution: Southern University of Science and Technology
       year: 2020.9-2024.6 (expected)
     - course: Visiting Student

@@ -48,9 +48,7 @@ sections:
           date_end: ''
           description: |2-
               * Assessing Generalization of Cognitive Tasks using Multi-regional Modular Recurrent Neural Networks with Transfer Learning
-
-              * Transfer learning to decode brain states reflecting the relationship between cognitive 
-tasks
+              * Transfer learning to decode brain states reflecting the relationship between cognitive tasks
               * Infusing cognitive science into artificial general intelligence test facilitates evolution and safety of large models
         - title: Professor of Semiconductor Physics
           company: Department of Brain and Cognitive Science, MIT

@@ -28,7 +28,6 @@ bio: My research interests focus on artificial intelligence (especially the spik
 interests:
   - Artificial Intelligence
   - Neuroscience
-  - Neural Imaging
   - Cooking - welcome to try my dishes!
   - Travel around
   - Learning German

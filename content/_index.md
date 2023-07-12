@@ -68,7 +68,14 @@ sections:
           date_start: '2023-07-01'
           date_end: '2023-12-31'
           description: Learn courses from University of Zurich and ETH.
-        
+        - title: Professor of Semiconductor Physics
+          company: New York Shanghai
+          company_url: ''
+          company_logo: org-x
+          location: Supervisor - Xing Tian
+          date_start: '2022-06-15'
+          date_end: '2022-09-01'
+          description: Learn courses from University of Zurich and ETH.
     design:
       columns: '2'
   - block: accomplishments

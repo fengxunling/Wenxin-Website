@@ -43,8 +43,8 @@ sections:
           company: Department of Biomedical Engineering, SUSTech
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Supervisor - Quanying Liu
+          date_start: '2021-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -53,13 +53,21 @@ sections:
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
-          company: University X
+          company: Department of Brain and Cognitive Science, MIT
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Supervisor - Guangyu Robert Yang 
+          date_start: '2023-07-01'
+          date_end: '2023-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Professor of Semiconductor Physics
+          company: University of Zurich
+          company_url: ''
+          company_logo: org-x
+          location: Supervisor - Guangyu Robert Yang 
+          date_start: '2023-07-01'
+          date_end: '2023-12-31'
+          description: Learn courses from University of Zurich and ETH.
     design:
       columns: '2'
   - block: accomplishments

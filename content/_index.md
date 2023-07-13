@@ -47,41 +47,43 @@ sections:
           date_start: '2021-07-01'
           date_end: ''
           description: |2-
-              * Assessing Generalization of Cognitive Tasks using Multi-regional Modular Recurrent Neural Networks with Transfer Learning
-              * Transfer learning to decode brain states reflecting the relationship between cognitive tasks
-              * Infusing cognitive science into artificial general intelligence test facilitates evolution and safety of large models
-        - title: Professor of Semiconductor Physics
-          company: Department of Brain and Cognitive Science, MIT
+              * Rearch about assessing generalization of cognitive tasks using multi-regional modular recurrent neural networks with transfer learning.
+              * Research about transfer learning to decode brain states reflecting the relationship between cognitive tasks.
+              * Infusing cognitive science into artificial general intelligence test facilitates evolution and safety of large models.
+        - title: Department of Brain and Cognitive Science, MIT
+          company: ''
           company_url: ''
           company_logo: org-x
-          location: Supervisor - Guangyu Robert Yang 
+          location: Supervisor - Guangyu Robert Yang
           date_start: '2023-07-01'
           date_end: '2023-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University of Zurich
+          description: |2-
+          * The research about investigating on Spontaneous emergence of electromyographic signals similarity phenomenon during the execution of motor cognition task optimization using Spiking Recurrent Nueral Networks(SRNN) research models.
+        - title: University of Zurich
+          company: ''
           company_url: ''
           company_logo: org-x
-          location: 12
+          location: ''
           date_start: '2023-07-01'
           date_end: '2023-12-31'
-          description: Learn courses from University of Zurich and ETH.
-        - title: Professor of Semiconductor Physics
-          company: New York Shanghai
+          description: I learnt courses from University of Zurich and ETH Zurich, including comparative behavioral neuroscience, bio and computational vision, models of computation.
+        - title: New York Shanghai
+          company: ''
           company_url: ''
           company_logo: org-x
           location: Supervisor - Xing Tian
           date_start: '2022-06-15'
           date_end: '2022-09-01'
-          description: Learn courses from University of Zurich and ETH.
-        - title: Professor of Semiconductor Physics
-          company: Department of Computer Science, SUSTech
+          description: |2-
+          * Analysis of non-suicidal self-injury patients based on resting-state EEG signals.
+        - title: Department of Computer Science and Engineering, SUSTech
+          company: ''
           company_url: ''
           company_logo: org-x
           location: Supervisor - Bo Tang
           date_start: '2020-09-01'
           date_end: '2021-06-30'
-          description: Learn courses from University of Zurich and ETH.
+          description: I joined the SUSTech Collegiate Programming Contest (SUSTech-CPC) Team and won several gold and silver medals in the ACM-ICPC (International Collegiate Programming Contest) with my teammates.
     design:
       columns: '2'
   - block: accomplishments

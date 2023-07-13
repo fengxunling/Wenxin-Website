@@ -42,7 +42,7 @@ sections:
         - title: Department of Biomedical Engineering, SUSTech
           company: ''
           company_url: ''
-          company_logo: org-gc
+          company_logo: biomedical engineering logo
           location: Supervisor - Quanying Liu
           date_start: '2021-07-01'
           date_end: ''

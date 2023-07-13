@@ -231,7 +231,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Welcome to contact me!
       # Contact (add or remove contact options as necessary)
       email: chewx2020@mail.sustech.edu.cn
       phone: +1 617-256-0853

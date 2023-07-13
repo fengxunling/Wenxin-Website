@@ -57,8 +57,7 @@ sections:
           location: Supervisor - Guangyu Robert Yang
           date_start: '2023-07-01'
           date_end: '2023-12-31'
-          description: 
-          * The research about investigating on Spontaneous emergence of electromyographic signals similarity phenomenon during the execution of motor cognition task optimization using Spiking Recurrent Nueral Networks(SRNN) research models.
+          description: The research is about investigating on Spontaneous emergence of electromyographic signals similarity phenomenon during the execution of motor cognition task optimization using Spiking Recurrent Nueral Networks(SRNN) research models.
         - title: University of Zurich
           company: ''
           company_url: ''
@@ -66,7 +65,7 @@ sections:
           location: ''
           date_start: '2023-07-01'
           date_end: '2023-12-31'
-          description: I learnt courses from University of Zurich and ETH Zurich, including comparative behavioral neuroscience, bio and computational vision, models of computation.
+          description: I learn courses from University of Zurich and ETH Zurich, including comparative behavioral neuroscience, bio and computational vision, models of computation.
         - title: New York Shanghai
           company: ''
           company_url: ''
@@ -74,8 +73,7 @@ sections:
           location: Supervisor - Xing Tian
           date_start: '2022-06-15'
           date_end: '2022-09-01'
-          description: |2-
-          * Analysis of non-suicidal self-injury patients based on resting-state EEG signals.
+          description: The research is about analysis of non-suicidal self-injury teenagers based on resting-state EEG signals, including source estimation analysis based on MNE, functional connectivity analysis based on weighted-PLI, and the linear regression of the functional connectivity in certain brain regions and medical diagnosis scores. 
         - title: Department of Computer Science and Engineering, SUSTech
           company: ''
           company_url: ''

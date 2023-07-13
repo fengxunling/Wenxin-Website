@@ -61,7 +61,7 @@ sections:
         - title: University of Zurich
           company: ''
           company_url: ''
-          company_logo: org-x
+          company_logo: UZH logo
           location: ''
           date_start: '2023-07-01'
           date_end: '2023-12-31'
@@ -69,7 +69,7 @@ sections:
         - title: New York Shanghai
           company: ''
           company_url: ''
-          company_logo: org-x
+          company_logo: NYU logo
           location: Supervisor - Xing Tian
           date_start: '2022-06-15'
           date_end: '2022-09-01'
@@ -77,7 +77,7 @@ sections:
         - title: Department of Computer Science and Engineering, SUSTech
           company: ''
           company_url: ''
-          company_logo: org-x
+          company_logo: CS logo
           location: Supervisor - Bo Tang
           date_start: '2020-09-01'
           date_end: '2021-06-30'

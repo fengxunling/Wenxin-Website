@@ -31,6 +31,7 @@ interests:
   - Cooking - welcome to try my dishes!
   - Travelling around
   - Learning German
+  - Playing the piano and ocarina
 
 # Education to show in About widget
 education:
@@ -85,5 +86,6 @@ email: ''
 highlight_name: true
 ---
 
-施工中
+Hi everyone! My name is Wenxin, I am a senior at the Southern University of Science and Technology, majoring in Intelligent Medical Engineering. 
+<!-- I believe that creating functionally equivalent computational models for the brain and mind is an essential step toward understanding. -->
 {style="text-align: justify;"}

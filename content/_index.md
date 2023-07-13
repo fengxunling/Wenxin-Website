@@ -53,7 +53,7 @@ sections:
         - title: Department of Brain and Cognitive Science, MIT
           company: ''
           company_url: ''
-          company_logo: org-x
+          company_logo: MIT logo
           location: Supervisor - Guangyu Robert Yang
           date_start: '2023-07-01'
           date_end: '2023-12-31'

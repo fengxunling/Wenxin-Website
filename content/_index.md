@@ -15,16 +15,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Machine Learning
+          description: I can deal with math and programming about classic machine learning and deep learning methods, especially the recurrent neural networks (RNNs), spiking neural networks (SNNs) and transfer learning models. 
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: I know the principles about classic neural imaging, such as CT, fMRI and EEG. I can also do the analysis of EEG signals including source estimation, frequency analysis and functional connectivity.
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Cooking
+          description: I can cook some classic Chinese food. You are welcome to try my dishes!
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -57,7 +57,7 @@ sections:
           location: Supervisor - Guangyu Robert Yang
           date_start: '2023-07-01'
           date_end: '2023-12-31'
-          description: The research is about investigating on Spontaneous emergence of electromyographic signals similarity phenomenon during the execution of motor cognition task optimization using Spiking Recurrent Nueral Networks(SRNN) research models.
+          description: The research is about investigating on spontaneous emergence of electromyographic signals similarity phenomenon during the execution of motor cognition task optimization using Spiking Recurrent Nueral Networks(SRNN) research models.
         - title: University of Zurich
           company: ''
           company_url: ''

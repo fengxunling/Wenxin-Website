@@ -57,7 +57,7 @@ sections:
           location: Supervisor - Guangyu Robert Yang
           date_start: '2023-07-01'
           date_end: '2023-12-31'
-          description: |2-
+          description: 
           * The research about investigating on Spontaneous emergence of electromyographic signals similarity phenomenon during the execution of motor cognition task optimization using Spiking Recurrent Nueral Networks(SRNN) research models.
         - title: University of Zurich
           company: ''

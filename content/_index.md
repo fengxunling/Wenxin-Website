@@ -23,8 +23,8 @@ sections:
           description: I know the principles about classic neural imaging, such as CT, fMRI and EEG. I can also do the analysis of EEG signals including source estimation, frequency analysis and functional connectivity.
           icon: chart-line
           icon_pack: fas
-        - name: Cooking
-          description: I can cook some classic Chinese food. You are welcome to try my dishes!
+        - name: Programming
+          description: I have excellent programming ability based on languages, including Python, MATLAB, C++ and Java.
           icon: camera-retro
           icon_pack: fas
   - block: experience

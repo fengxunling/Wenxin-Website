@@ -29,7 +29,7 @@ interests:
   - Artificial Intelligence
   - Neuroscience
   - Cooking - welcome to try my dishes!
-  - Travel around
+  - Travelling around
   - Learning German
 
 # Education to show in About widget

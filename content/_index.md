@@ -98,8 +98,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.datacamp.com
-          date_end: '2022-12-21'
-          date_start: '2023-07-01'
+          date_end: '2021-05-15'
+          date_start: '2021-05-16'
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'

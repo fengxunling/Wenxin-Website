@@ -113,6 +113,15 @@ sections:
           organization_url: https://www.edx.org
           title: Collegiate Biomedical Engineering Innovation Design Competition
           url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: Provincial - Gold Medal
+          organization_url: ''
+          title: "Challenge Cup" Entrepreneurship and Innovation Competition 
+          url: ''
+        
     design:
       columns: '2'
   - block: collection

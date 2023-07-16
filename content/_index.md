@@ -101,7 +101,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          organization: xyz
+          organization: Coursera
           organization_url: ''
           title: National - Project Leader | China College Student Entrepreneurship and Innovation Program
           url: ''

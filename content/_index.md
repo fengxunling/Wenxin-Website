@@ -97,7 +97,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.datacamp.com
+        - certificate_url: https://github.com/fengxunling/Wenxin-Website/blob/main/content/certificates/The%202020%20ICPC%20Asia%20Yinchuan%20Regional%20Contest.pdf
           date_end: '2021-05-15'
           date_start: '2021-05-16'
           description: ''

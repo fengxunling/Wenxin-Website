@@ -133,12 +133,12 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: XX
-          organization_url: ''
+          organization: CCPC
+          organization_url: 'https://ccpc.io/'
           title: Provincial - Gold Medal | CCPC (China Collegiate Programming Contest) Guangdong Province
           url: ''
         - certificate_url: https://www.datacamp.com
-          date_end: '2021-4-18'
+          date_end: '2021-04-18'
           date_start: ''
           description: ''
           organization: ICPC
@@ -149,8 +149,8 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: xx
-          organization_url: ''
+          organization: CCPC
+          organization_url: 'https://ccpc.io/'
           title: National - Bronze Medal | CCPC (China Collegiate Programming Contest) National Final 
           url: ''
         - certificate_url: https://www.datacamp.com
@@ -166,7 +166,7 @@ sections:
           date_start: ''
           description: ''
           organization: CCPC
-          organization_url: ''
+          organization_url: 'https://ccpc.io/'
           title: National - 2nd, Gold Medal | CCPC (China Collegiate Programming Contest) for girls
           url: ''
         - certificate_url: https://www.datacamp.com
@@ -181,8 +181,8 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: xx
-          organization_url: ''
+          organization: CCPC
+          organization_url: 'https://ccpc.io/'
           title: National - Bronze Medal | CCPC (China Collegiate Programming Contest) Regionals
           url: ''
         

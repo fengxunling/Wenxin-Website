@@ -119,7 +119,7 @@ sections:
           description: ''
           organization: Provincial - Gold Medal
           organization_url: ''
-          title: "Challenge Cup" Entrepreneurship and Innovation Competition 
+          title: Challenge Cup Entrepreneurship and Innovation Competition 
           url: ''
         
     design:

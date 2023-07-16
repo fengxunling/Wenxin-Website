@@ -109,24 +109,24 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          organization: Provincial - First Prize
+          organization: Guangdong Biomedical Engineering Association
           organization_url: https://www.edx.org
-          title: Collegiate Biomedical Engineering Innovation Design Competition
+          title: Provincial - First Prize | Collegiate Biomedical Engineering Innovation Design Competition
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: Provincial - Gold Medal
+          organization: Department of Education of Guangdong Province
           organization_url: ''
-          title: Challenge Cup Entrepreneurship and Innovation Competition 
+          title: Provincial - Gold Medal | Challenge Cup Entrepreneurship and Innovation Competition 
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
           organization: National - Gold Medal
-          organization_url: ''
+          organization_url: 'https://icpc.global/'
           title: ACM-ICPC (International Collegiate Programming Contest) Regionals
           url: ''
         - certificate_url: https://www.datacamp.com
@@ -142,7 +142,7 @@ sections:
           date_start: '2020-07-01'
           description: ''
           organization: National - Silver Medal
-          organization_url: ''
+          organization_url: 'https://icpc.global/'
           title: ACM-ICPC Asia East Continent Finals
           url: ''
         - certificate_url: https://www.datacamp.com

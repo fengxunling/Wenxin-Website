@@ -101,9 +101,9 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          organization: National - Project Leader
+          organization: xyz
           organization_url: ''
-          title: China College Student Entrepreneurship and Innovation Program
+          title: National - Project Leader | China College Student Entrepreneurship and Innovation Program
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''

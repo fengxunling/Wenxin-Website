@@ -99,14 +99,14 @@ sections:
       items:
         - certificate_url: https://github.com/fengxunling/Wenxin-Website/blob/main/content/certificates/The%202020%20ICPC%20Asia%20Yinchuan%20Regional%20Contest.pdf
           date_end: '2021-05-15'
-          date_start: ''
+          date_start: '2021-05-15'
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'
           title: National - Gold Medal | ACM-ICPC (International Collegiate Programming Contest) Regionals
           url: ''
         - certificate_url: ''
-          date_end: ''
+          date_end: '2022-05-01'
           date_start: '2022-05-01'
           description: ''
           organization: 15000CNY grants
@@ -114,7 +114,7 @@ sections:
           title: National - Project Leader | China College Student Entrepreneurship and Innovation Program
           url: ''
         - certificate_url: https://www.edx.org
-          date_end: ''
+          date_end: '2021-01-01'
           date_start: '2021-01-01'
           description: ''
           organization: Guangdong Biomedical Engineering Association
@@ -139,7 +139,7 @@ sections:
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2021-04-18'
-          date_start: ''
+          date_start: '2021-04-18'
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'
@@ -163,7 +163,7 @@ sections:
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-10-01'
-          date_start: ''
+          date_start: '2020-10-01'
           description: ''
           organization: CCPC
           organization_url: 'https://ccpc.io/'

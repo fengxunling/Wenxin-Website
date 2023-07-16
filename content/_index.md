@@ -99,7 +99,7 @@ sections:
       items:
         - certificate_url: https://github.com/fengxunling/Wenxin-Website/blob/main/content/certificates/The%202020%20ICPC%20Asia%20Yinchuan%20Regional%20Contest.pdf
           date_end: '2021-05-15'
-          date_start: '2021-05-16'
+          date_start: ''
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'
@@ -138,8 +138,8 @@ sections:
           title: Provincial - Gold Medal | CCPC (China Collegiate Programming Contest) Guangdong Province
           url: ''
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2021-4-18'
+          date_start: ''
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'
@@ -162,10 +162,10 @@ sections:
           title: Provincial - Winning Prize | Undergraduate Mathematical Contest in Modeling
           url: ''
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2020-10-01'
+          date_start: ''
           description: ''
-          organization: xx
+          organization: CCPC
           organization_url: ''
           title: National - 2nd, Gold Medal | CCPC (China Collegiate Programming Contest) for girls
           url: ''
@@ -173,9 +173,9 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: xx
-          organization_url: ''
-          title: National - Silver Medal | CCPC (China Collegiate Programming Contest) Regionals
+          organization: ICPC
+          organization_url: 'https://icpc.global/'
+          title: National - Silver Medal | ICPC (China Collegiate Programming Contest) Regionals
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'

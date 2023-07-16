@@ -99,19 +99,19 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: ''
           description: ''
-          organization: Coursera
+          organization: National - Project Leader
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: China College Student Entrepreneurship and Innovation Program
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          organization: Provincial - First Prize
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          title: Collegiate Biomedical Engineering Innovation Design Competition
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'

@@ -99,8 +99,8 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: ''
-          description: '2021-01-01'
+          date_start: '2021-01-01'
+          description: ''
           organization: National - Project Leader
           organization_url: https://www.coursera.org
           title: China College Student Entrepreneurship and Innovation Program

@@ -125,65 +125,65 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: National - Gold Medal
+          organization: XX
           organization_url: 'https://icpc.global/'
-          title: ACM-ICPC (International Collegiate Programming Contest) Regionals
+          title: National - Gold Medal | ACM-ICPC (International Collegiate Programming Contest) Regionals
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: Provincial - Gold Medal
+          organization: XX
           organization_url: ''
-          title: CCPC (China Collegiate Programming Contest) Guangdong Province
+          title: Provincial - Gold Medal | CCPC (China Collegiate Programming Contest) Guangdong Province
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: National - Silver Medal
+          organization: XX
           organization_url: 'https://icpc.global/'
-          title: ACM-ICPC Asia East Continent Finals
+          title: National - Silver Medal | ACM-ICPC Asia East Continent Finals
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: National - Bronze Medal
+          organization: xx
           organization_url: ''
-          title: CCPC (China Collegiate Programming Contest) National Final 
+          title: National - Bronze Medal | CCPC (China Collegiate Programming Contest) National Final 
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: Provincial - Winning Prize
+          organization: xx
           organization_url: ''
-          title: Undergraduate Mathematical Contest in Modeling
+          title: Provincial - Winning Prize | Undergraduate Mathematical Contest in Modeling
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: National - 2nd, Gold Medal
+          organization: xx
           organization_url: ''
-          title: CCPC (China Collegiate Programming Contest) for girls
+          title: National - 2nd, Gold Medal | CCPC (China Collegiate Programming Contest) for girls
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: National - Silver Medal
+          organization: xx
           organization_url: ''
-          title: CCPC (China Collegiate Programming Contest) Regionals
+          title: National - Silver Medal | CCPC (China Collegiate Programming Contest) Regionals
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: National - Bronze Medal
+          organization: xx
           organization_url: ''
-          title: CCPC (China Collegiate Programming Contest) Regionals
+          title: National - Bronze Medal | CCPC (China Collegiate Programming Contest) Regionals
           url: ''
         
     design:

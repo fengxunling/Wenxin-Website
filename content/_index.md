@@ -125,7 +125,7 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: XX
+          organization: ICPC
           organization_url: 'https://icpc.global/'
           title: National - Gold Medal | ACM-ICPC (International Collegiate Programming Contest) Regionals
           url: ''
@@ -141,7 +141,7 @@ sections:
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: XX
+          organization: ICPC
           organization_url: 'https://icpc.global/'
           title: National - Silver Medal | ACM-ICPC Asia East Continent Finals
           url: ''

@@ -17,16 +17,16 @@ sections:
       items:
         - name: Machine Learning
           description: I can deal with math and programming about classic machine learning and deep learning methods, especially the recurrent neural networks (RNNs), spiking neural networks (SNNs) and transfer learning models. 
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
+          # icon: r-project
+          # icon_pack: fab
+        - name: Neural Imaging
           description: I know the principles about classic neural imaging, such as CT, fMRI and EEG. I can also do the analysis of EEG signals including source estimation, frequency analysis and functional connectivity.
-          icon: chart-line
-          icon_pack: fas
+          # icon: chart-line
+          # icon_pack: fas
         - name: Programming
           description: I have excellent programming ability based on languages, including Python, MATLAB, C++ and Java.
-          icon: camera-retro
-          icon_pack: fas
+          # icon: camera-retro
+          # icon_pack: fas
   - block: experience
     content:
       title: Eduation and Research Experience

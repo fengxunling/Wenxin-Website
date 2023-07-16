@@ -105,12 +105,12 @@ sections:
           organization_url: 'https://icpc.global/'
           title: National - Gold Medal | ACM-ICPC (International Collegiate Programming Contest) Regionals
           url: ''
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2022-05-01'
           description: ''
-          organization: Coursera
-          organization_url: ''
+          organization: 15000CNY grants
+          organization_url: 'http://gjcxcy.bjtu.edu.cn/Index.aspx'
           title: National - Project Leader | China College Student Entrepreneurship and Innovation Program
           url: ''
         - certificate_url: https://www.edx.org

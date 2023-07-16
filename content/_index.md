@@ -102,24 +102,56 @@ sections:
           date_start: '2021-01-01'
           description: ''
           organization: National - Project Leader
-          organization_url: https://www.coursera.org
+          organization_url: ''
           title: China College Student Entrepreneurship and Innovation Program
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: ''
           organization: Provincial - First Prize
           organization_url: https://www.edx.org
           title: Collegiate Biomedical Engineering Innovation Design Competition
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Provincial - Gold Medal
+          organization_url: ''
+          title: "Challenge Cup" Entrepreneurship and Innovation Competition 
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: National - Gold Medal
+          organization_url: ''
+          title: ACM-ICPC (International Collegiate Programming Contest) Regionals
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: Provincial - Gold Medal
+          organization_url: ''
+          title: CCPC (China Collegiate Programming Contest) Guangdong Province
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: National - Silver Medal
+          organization_url: ''
+          title: ACM-ICPC Asia East Continent Finals
+          url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          organization: National - Bronze Medal
+          organization_url: ''
+          title: CCPC (China Collegiate Programming Contest) National Final 
           url: ''
     design:
       columns: '2'

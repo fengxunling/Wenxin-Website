@@ -103,7 +103,7 @@ sections:
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'
-          title: National - Gold Medal | ACM-ICPC (International Collegiate Programming Contest) Regionals
+          title: ACM-ICPC (International Collegiate Programming Contest) Regionals | National - Gold Medal
           url: ''
         - certificate_url: ''
           date_end: '2022-05-01'
@@ -111,7 +111,7 @@ sections:
           description: ''
           organization: 15000CNY grants
           organization_url: 'http://gjcxcy.bjtu.edu.cn/Index.aspx'
-          title: National - Project Leader | China College Student Entrepreneurship and Innovation Program
+          title: China College Student Entrepreneurship and Innovation Program | National - Project Leader
           url: ''
         - certificate_url: https://www.edx.org
           date_end: '2021-01-01'
@@ -119,7 +119,7 @@ sections:
           description: ''
           organization: Guangdong Biomedical Engineering Association
           organization_url: https://www.edx.org
-          title: Provincial - First Prize | Collegiate Biomedical Engineering Innovation Design Competition
+          title: Collegiate Biomedical Engineering Innovation Design Competition | Provincial - First Prize
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -127,7 +127,7 @@ sections:
           description: ''
           organization: Department of Education of Guangdong Province
           organization_url: ''
-          title: Provincial - Gold Medal | Challenge Cup Entrepreneurship and Innovation Competition 
+          title: Challenge Cup Entrepreneurship and Innovation Competition | Provincial - Gold Medal
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -135,7 +135,7 @@ sections:
           description: ''
           organization: CCPC
           organization_url: 'https://ccpc.io/'
-          title: Provincial - Gold Medal | CCPC (China Collegiate Programming Contest) Guangdong Province
+          title: CCPC (China Collegiate Programming Contest) Guangdong Province | Provincial - Gold Medal
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2021-04-18'
@@ -143,7 +143,7 @@ sections:
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'
-          title: National - Silver Medal | ACM-ICPC Asia East Continent Finals
+          title: ACM-ICPC Asia East Continent Finals | National - Silver Medal
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -151,7 +151,7 @@ sections:
           description: ''
           organization: CCPC
           organization_url: 'https://ccpc.io/'
-          title: National - Bronze Medal | CCPC (China Collegiate Programming Contest) National Final 
+          title: CCPC (China Collegiate Programming Contest) National Final | National - Bronze Medal
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -159,7 +159,7 @@ sections:
           description: ''
           organization: xx
           organization_url: ''
-          title: Provincial - Winning Prize | Undergraduate Mathematical Contest in Modeling
+          title: Undergraduate Mathematical Contest in Modeling | Provincial - Winning Prize
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-10-01'
@@ -167,7 +167,7 @@ sections:
           description: ''
           organization: CCPC
           organization_url: 'https://ccpc.io/'
-          title: National - 2nd, Gold Medal | CCPC (China Collegiate Programming Contest) for girls
+          title: CCPC (China Collegiate Programming Contest) for girls | National - 2nd, Gold Medal
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -175,7 +175,7 @@ sections:
           description: ''
           organization: ICPC
           organization_url: 'https://icpc.global/'
-          title: National - Silver Medal | ICPC (China Collegiate Programming Contest) Regionals
+          title: ICPC (China Collegiate Programming Contest) Regionals |  National - Silver Medal
           url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -183,7 +183,7 @@ sections:
           description: ''
           organization: CCPC
           organization_url: 'https://ccpc.io/'
-          title: National - Bronze Medal | CCPC (China Collegiate Programming Contest) Regionals
+          title: CCPC (China Collegiate Programming Contest) Regionals | National - Bronze Medal
           url: ''
         
     design:

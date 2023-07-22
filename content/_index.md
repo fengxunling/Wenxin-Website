@@ -66,7 +66,7 @@ sections:
           date_start: '2023-07-01'
           date_end: '2023-12-31'
           description: I learn courses from University of Zurich and ETH Zurich, including comparative behavioral neuroscience, bio and computational vision, models of computation.
-        - title: New York Shanghai
+        - title: New York University Shanghai
           company: ''
           company_url: ''
           company_logo: NYU logo
